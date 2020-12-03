@@ -1,0 +1,2 @@
+Info about Teacher Masha
+Person {id = 2, name = Masha, address = Address {country = Great Britain, city = London}, Teacher {type = professor, limit = 2, studentList[Person {id = 1, name = Andrey, address = Address {country = Ukraine, city = Kherson}, Student {type = bachelor, CourseWork [name = Logical operatorsdescription = &&, ||, !]}}, Person {id = 3, name = Sasha, address = Address {country = Ukraine, city = Kherson}, Student {type = master, CourseWork [name = Kulish's lifedescription = Biography]}}]}}
